@@ -9,7 +9,7 @@
       <td align=center><img src="https://raw.githubusercontent.com/dddd2017/ku/master/伪火3.jpg" /></td>
   </tr>
   <tr>
-      <td align=center><img src="https://raw.githubusercontent.com/dddd2017/ku/master/伪火4.jpg" /></td>
+      <td align=center><img src="https://raw.githubusercontent.com/dddd2017/ku/master/%E4%BC%AA%E7%81%AB4.JPG" /></td>
   </tr>
   <tr>
 <td align=center>◆免费  ◆安全  ◆快速  ◆绿色  ◆高速视频<br/>
