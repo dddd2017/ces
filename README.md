@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td align=center><img src="https://raw.githubusercontent.com/dddd2017/ku/master/%E4%BC%AA%E7%81%AB1.jpgg" /></td>
+    <td align=center><img src="https://raw.githubusercontent.com/dddd2017/ku/master/伪火1.jpg" /></td>
   </tr>
   <tr>
       <td align=center><img src="https://raw.githubusercontent.com/dddd2017/ku/master/伪火2.jpg" /></td>
